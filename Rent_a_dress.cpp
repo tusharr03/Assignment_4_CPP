@@ -112,7 +112,7 @@ accinfo()
 int get()
 {
 
-    cout<<endl<<"Sorry! You have reached the limit!. Return some books to issue new one. Thank You!"<<endl;
+    cout<<endl<<"Sorry! You have reached the maximum limit!. Return some dresses to issue new one. Thank You!"<<endl;
 
 }
 
